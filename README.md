@@ -4,7 +4,7 @@ Hi 👋 My name is Joel Gonzalez
 CS Student :computer:
 ----------
 
-SWE Co-op Intern, with experience in Back-End WebDev
+SWE Co-op Intern, with experience in DevOps and Back-End WebDev
 
 *   🌍  I'm based in Puerto Rico
 *   ✉️  You can contact me at [joel.gonzalez35@upr.edu](mailto:joel.gonzalez35@upr.edu)
