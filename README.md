@@ -16,10 +16,5 @@ SWE Co-op Intern
 <picture>
   <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="32" height="32" /> 
 </picture>
-  
-<a href="https://discord.com/users/joelm12pr" target="_blank" rel="noreferrer"> 
-<picture>
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/discord.svg" width="32" height="32" /> 
-</picture>
 </a>
 </p>
