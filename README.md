@@ -9,7 +9,7 @@ Former SWE Co-op Intern - Competitive Programmer - Undergraduate Researcher
 *   🌍  I'm based in Puerto Rico
 *   ✉️  You can contact me at: [joel.gonzalez35@upr.edu](mailto:joel.gonzalez35@upr.edu)
 *   :school: School GitHub Account: [joel-messiel](https://github.com/joel-messiel)
-- :computer: International Collegiate Programming Contest: [stats](https://icpc.global/ICPCID/8DCXPZ2BPJUA)
+*   :computer: International Collegiate Programming Contest: [stats](https://icpc.global/ICPCID/8DCXPZ2BPJUA)
 
 ### Socials
 
